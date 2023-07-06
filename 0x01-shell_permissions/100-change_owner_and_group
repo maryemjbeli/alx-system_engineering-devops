@@ -1,2 +1,2 @@
 #!/bin/bash
-ciown vincent:staff
+chown vincent:staff
